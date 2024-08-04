@@ -233,7 +233,7 @@ p{
 /*-----flag---*/
 .principal-desk {
     margin:75px auto;
-    width: 90%;
+    width: 30%;
     background-image:url(./images/1.png);
     position: relative;
     background-position: center;
@@ -619,7 +619,7 @@ p{
 .header1{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9.30,0.7),rgba(4,9,30,0.7)),url(PCCFlag.png);
+    background-image: linear-gradient(rgba(4,9.30,0.7),rgba(4,9,30,0.7)),url();
     background-position: center;
     background-size: cover;
     position: relative;
@@ -627,7 +627,7 @@ p{
 .header2{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9.30,0.7),rgba(4,9,30,0.7)),url(1891171_754349801243845_263420838_n_edited.jpg);
+    background-image: linear-gradient(rgba(4,9.30,0.7),rgba(4,9,30,0.7)),url(891171_754349801243845_263420838_n_edited.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
